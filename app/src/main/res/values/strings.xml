@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica2</string>
+    <string name="add_text_tv">Ingresa texto</string>
+    <string name="add_text_btn">Agregar texto</string>
+    <string name="check_list">Ver lista</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
